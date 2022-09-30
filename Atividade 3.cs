@@ -17,19 +17,19 @@ namespace ConsoleApp1
             c1[2] = new Cliente();
             c1[3] = new Cliente();
 
-            c1[0].Nome = "Rafael";
+            c1[0].Nome = "Arnaldo";
             c1[0].Matricula = 0000;
             c1[0].Salario = 7900;
 
-            c1[1].Nome = "Diego";
+            c1[1].Nome = "Fulano";
             c1[1].Matricula = 0001;
             c1[1].Salario = 7800;
 
-            c1[2].Nome = "Fabio";
+            c1[2].Nome = "Sicrano";
             c1[2].Matricula = 0002;
             c1[2].Salario = 7700;
 
-            c1[3].Nome = "Guigs";
+            c1[3].Nome = "Beltrano";
             c1[3].Matricula = 0003;
             c1[3].Salario = 7600;
 
